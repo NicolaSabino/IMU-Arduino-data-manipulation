@@ -1,5 +1,7 @@
 # IMU-Arduino-data-manipulation
 ![logo] (https://github.com/NicolaSabino/IMU-Arduino-data-manipulation/blob/master/Immagini/IMG_1352.JPG)
+
+
 **Manipolazione di dati in tempo reale con Matlab e Arduino**
 
 Il progetto è il risultato della mia collaborazione in primis con il prof. Fiori Simone, docente di _Elettrotecnica_ presso l'Università politecnico delle Marche, successivamente con il Prof. Andrea Bonci, docente del corso  _Laborato di Automazione_, e altri studenti: _Edoardo Russo_,_Andrea Civita_ e _Giuseppe Romani_
