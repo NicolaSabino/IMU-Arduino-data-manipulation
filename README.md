@@ -17,6 +17,7 @@ il prototipo finale
 
 ##Acquisizione dati
 Successivamente sono passato ad analizzare i dati al pc graficandoli ed eseguendo qualche animazione
+
 ![logo] (https://github.com/NicolaSabino/IMU-Arduino-data-manipulation/blob/master/Matlab/Grafici/PlotDati2.jpg)
 ![logo] (https://github.com/NicolaSabino/IMU-Arduino-data-manipulation/blob/master/Matlab/Grafici/DatiAcquisiti.png)
 
@@ -29,7 +30,10 @@ Per ottenere ciò è stato necessario sottocampionare i dati ricevuti dall'imu p
 Il progetto è il risultato della mia collaborazione in primis con il prof. Fiori Simone, docente di _Elettrotecnica_ presso l'Università politecnico delle Marche, successivamente con il Prof. Andrea Bonci, docente del corso  _Laborato di Automazione_, e altri studenti: _Edoardo Russo_,_Andrea Civita_ e _Giuseppe Romani_ i quali anno ampliato il progetto 
 eseguendo delle analisi sulla _qualità del movimento_.
 
-In ultima battutà il Professor Fiori ha stillato una Relazione che + stata presentata al 10th International Conference on
+In ultima battutà il Professor Fiori ha stillato una Relazione
+(consultabile al link https://github.com/NicolaSabino/IMU-Arduino-data-manipulation/blob/master/In-Lab%20Drone's%20Attitude%20Maneuvering%20Fluency%20Evaluation%20by%20a%20Gyroscopic%20Lurch%20Index.pdf)
+
+che è stata presentata al 10th International Conference on
 COMPUTER ENGINEERING and APPLICATIONS (CEA '16) a Barcellona il 15 e 16 Febbraio del 2016.
 
 Fiori Simone: https://twitter.com/isplab_univpm
